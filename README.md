@@ -23,7 +23,8 @@ This tutorial walks through the process of setting up a simple chatbot that uses
 
 Watch the full tutorial on YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aU6k7a_bUXU?si=ve1ACtpCo_oqGpy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/aU6k7a_bUXU/0.jpg)](https://www.youtube.com/watch?v=aU6k7a_bUXU)
+
 
 ## Installation
 
